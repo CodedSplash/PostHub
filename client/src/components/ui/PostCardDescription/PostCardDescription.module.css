@@ -1,0 +1,10 @@
+.nickname {
+	font-weight: 600;
+}
+
+.content {
+	max-width: 1040px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

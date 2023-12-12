@@ -1,0 +1,11 @@
+.loginContainer {
+	min-height: calc(100vh - 131px);
+}
+
+.card {
+	width: 450px;
+}
+
+.space {
+	width: 100%;
+}

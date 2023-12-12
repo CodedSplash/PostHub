@@ -1,0 +1,88 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: calc(100vh - 131px);
+}
+
+.notFound {
+	display: flex;
+}
+
+.container span {
+	font-size: 192px;
+	font-weight: 900;
+}
+
+.container p {
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.one {
+	animation: oneAnim 3s ease 0s infinite reverse;
+}
+
+.two {
+	animation: twoAnim 3s ease 0s infinite reverse;
+}
+
+.three {
+	animation: threeAnim 3s ease 0s infinite reverse;
+}
+
+@keyframes oneAnim {
+	0% {
+		color: #dad871;
+	}
+
+	33.333% {
+		color: #47a76a;
+	}
+
+	66.666% {
+		color: #a2add0;
+	}
+
+	100% {
+		color: #66ff00;
+	}
+}
+
+@keyframes twoAnim {
+	0% {
+		color: #212121;
+	}
+
+	33.333% {
+		color: #c6c3b5;
+	}
+
+	66.666% {
+		color: #fadbc8;
+	}
+
+	100% {
+		color: #4d7198;
+	}
+}
+
+@keyframes threeAnim {
+	0% {
+		color: #ffbcad;
+	}
+
+	33.333% {
+		color: #29ab87;
+	}
+
+	66.666% {
+		color: #a7fc00;
+	}
+
+	100% {
+		color: #c7d0cc;
+	}
+}
