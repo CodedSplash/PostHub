@@ -9,6 +9,7 @@ const RoutesList: FC = () => {
 			<Route path="/" element={<Layout />}>
 				{routes.map((route) => (
 					<Route
+						key={route?.path || new Date().getTime()}
 						path={route?.path || ''}
 						index={route?.index || false}
 						element={route.element}
