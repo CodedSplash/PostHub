@@ -1,22 +1,22 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/CodedSplash/PostsList">
+  <a href="https://github.com/CodedSplash/PostHub">
     <img src="https://i.ibb.co/ckxZyq6/Posts-list-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Posts list</h3>
+  <h3 align="center">Post Hub</h3>
 
   <p align="center">
     This is a project in which I implemented user registration/authorization, creation, deletion and editing of posts.
     <br/>
     <br/>
-    <a href="https://github.com/CodedSplash/PostsList">View Demo</a>
+    <a href="https://github.com/CodedSplash/PostHub">View Demo</a>
     .
-    <a href="https://github.com/CodedSplash/PostsList/issues">Request Feature</a>
+    <a href="https://github.com/CodedSplash/PostHub/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/CodedSplash/PostsList?color=dark-green) ![Issues](https://img.shields.io/github/issues/CodedSplash/PostsList) ![License](https://img.shields.io/github/license/CodedSplash/PostsList) 
+![Contributors](https://img.shields.io/github/contributors/CodedSplash/PostHub?color=dark-green) ![Issues](https://img.shields.io/github/issues/CodedSplash/PostHub) ![License](https://img.shields.io/github/license/CodedSplash/PostHub) 
 
 ## Table Of Contents
 
@@ -36,8 +36,8 @@ You can edit and delete your posts.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/CodedSplash/PostsList/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/CodedSplash/PostHub/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Shchukin Ivan** - *Comp Sci Student* - [Shchukin Ivan](https://github.com/CodedSplash) - *Creator of the Posts list pet project*
+* **Shchukin Ivan** - *Comp Sci Student* - [Shchukin Ivan](https://github.com/CodedSplash) - *Creator of the Post Hub pet project*
